@@ -1,0 +1,15 @@
+
+9
+java:S1700"Rename field "componentList"(Õä½×8É•µˆÁ1
+\
+java:S1161,":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ8Û•µˆÁ1
+N
+java:S1068",Remove this unused "listPane" private field.(†±íÚøÿÿÿÿ8Û•µˆÁ1
+K
+java:S1068".Remove this unused "switchTime" private field.(‡ş™Ï8Û•µˆÁ1
+P
+java:S1068".Remove this unused "windowTime" private field.(ñ½Îşÿÿÿÿ8Û•µˆÁ1
+M
+java:S1068"0Remove this unused "tvDiningTime" private field.(­Ìç»8Û•µˆÁ1
+M
+java:S1068"0Remove this unused "tvLivingTime" private field.(ë£¼Ò8Û•µˆÁ1

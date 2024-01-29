@@ -1,0 +1,11 @@
+
+
+java:S4165
+"iRemove this useless assignment; "startMinute" already holds the assigned value along all execution paths.(╟иир
+В
+java:S4165	"gRemove this useless assignment; "startHour" already holds the assigned value along all execution paths.(Абач     
+J
+java:S1656	"/Remove or correct this useless self-assignment.(Абач     
+E
+java:S1656
+"/Remove or correct this useless self-assignment.(╟иир

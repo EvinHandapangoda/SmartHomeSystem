@@ -1,0 +1,20 @@
+
+e
+java:S11926"JDefine a constant instead of duplicating this literal "Consolas" 12 times.(ÖÔ²±úÿÿÿÿ
+C
+java:S1604y"(Make this anonymous inner class a lambda(¿Ëıˆùÿÿÿÿ
+y
+java:S4144³"]Update this method so that its implementation is not identical to "getStartHour" on line 175.(±ôÂ®úÿÿÿÿ
+y
+java:S4144·"]Update this method so that its implementation is not identical to "getStartHour" on line 175.(ü™‚âøÿÿÿÿ
+y
+java:S4144»"]Update this method so that its implementation is not identical to "getStartHour" on line 175.(üßÖøûÿÿÿÿ
+h
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(—±‹ø
+=	java:S131•""Add a default case to this switch.(«ü”ùÿÿÿÿ
+g
+java:S4275³"KRefactor this getter so that it actually refers to the field "startMinute".(±ôÂ®úÿÿÿÿ
+c
+java:S4275·"GRefactor this getter so that it actually refers to the field "endHour".(ü™‚âøÿÿÿÿ
+e
+java:S4275»"IRefactor this getter so that it actually refers to the field "endMinute".(üßÖøûÿÿÿÿ
